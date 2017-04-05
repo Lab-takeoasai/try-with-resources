@@ -16,3 +16,10 @@ This connection is always closed.
 ```bash
 $ gradle run
 ```
+
+```
+Begin Main
+tryWithResources
+MockConnection is closed.
+End Main
+```
