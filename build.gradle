@@ -1,0 +1,10 @@
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'sample.Main'
+
+repositories {
+    mavenCentral()
+}
+
+
